@@ -1,7 +1,7 @@
 import random 
 def game():
-	# x = random.randint(100, 999)
-	x = 508
+	x = random.randint(100, 999)
+	# x = 508
 	x = [int(i) for i in str(x)]
 	lst = x.copy()
 	count = 0
