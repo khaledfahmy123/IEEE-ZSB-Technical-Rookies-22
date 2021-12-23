@@ -1,6 +1,7 @@
 import random 
 def game():
-	x = random.randint(100, 999)
+	# x = random.randint(100, 999)
+	x = 508
 	x = [int(i) for i in str(x)]
 	lst = x.copy()
 	count = 0
@@ -25,7 +26,6 @@ def game():
 			if i in x:
 				misses += 1
 				x.remove(i)
-				# num.remove(i)
 
 		print(f"{hits} hits {misses} misses")
 		x = lst.copy()
