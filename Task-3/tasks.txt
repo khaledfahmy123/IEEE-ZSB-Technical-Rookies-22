@@ -1,0 +1,10 @@
+1-bottles
+2- GCD
+3-password
+4-Kangaroo
+5-max and min records
+6- Kaprekar constant
+7-frequent number
+8- pairs of socks
+9- valleys
+10- pages

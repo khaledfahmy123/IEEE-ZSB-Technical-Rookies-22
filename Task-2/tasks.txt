@@ -1,0 +1,9 @@
+1- plaindrome
+2- remove duplicates
+3- guess 4 digits
+4- minimum distance
+5- insertion sort
+6- second max
+7- find substring
+8- second minimum score
+9- matrix diagonal 
