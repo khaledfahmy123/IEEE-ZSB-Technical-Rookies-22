@@ -1,0 +1,10 @@
+1- max heap
+2- book / day
+3- circular rotation
+4- beautiful seq
+5- insertion implementation
+6- climbing
+7- topics
+8- s and t
+9- regex
+10- friends deletion
