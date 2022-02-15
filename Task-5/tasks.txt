@@ -5,6 +5,6 @@
 5- insertion implementation
 6- climbing
 7- topics
-8- s and t
+8- 
 9- regex
 10- friends deletion

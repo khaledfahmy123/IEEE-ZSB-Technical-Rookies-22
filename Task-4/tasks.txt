@@ -1,0 +1,10 @@
+1- distances
+2- rar 
+3- linked lists 
+4- fine 
+5- digits 
+6- chocolate 
+7- kaprekar 
+8- stones 
+9- cavity 
+10- shop 
